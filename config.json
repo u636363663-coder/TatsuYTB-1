@@ -4,22 +4,22 @@
     "autoCreateDB": true,
     "iconUnsend": {
         "status": true,
-        "icon": ""
+        "icon": "❤️"
     },
     "notiGroup": false,
     "NOTIFICATION": true,
     "allowInbox": true,
     "commandDisabled": [],
     "eventDisabled": [],
-    "BOTNAME": "",
-    "AMDIN_NAME": "",
-    "FACEBOOK_ADMIN": "",
-    "PREFIX": "",
+    "BOTNAME": "developed by hoai nam - admin thasocial.site",
+    "AMDIN_NAME": "nam cute admin sever bot",
+    "FACEBOOK_ADMIN": "Bun Ping Kek",
+    "PREFIX": "/",
     "ADMINBOT": [
-        ""
+        "100002102580066"
     ],
     "NDH": [
-        ""
+        "100002102580066"
     ],
     "DATABASE": {
         "sqlite": {
